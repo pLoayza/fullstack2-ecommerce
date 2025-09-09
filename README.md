@@ -75,8 +75,8 @@ ecommerce-landing/
    - Abre `index.html` en tu navegador web
    - O usa Live Server si tienes VS Code instalado
 
-4. **¡Listo!** 🎉
-   El proyecto estará ejecutándose en tu navegador local.
+4. **¡Listo!** 
+   El proyecto estará ejecutándose en tu navegador.
 
 ---
 
@@ -106,23 +106,7 @@ ecommerce-landing/
 
 ---
 
-## 🎯 Requerimientos del Proyecto
 
-### Funcionales
-1. ✅ Autentificar Usuario al iniciar Sesión
-2. ✅ Registrar Usuario al Sistema
-3. ✅ Visualizar catálogo de productos
-4. ✅ Agregar productos al carrito de compras
-5. ✅ Gestionar carrito (agregar/eliminar productos)
-
-### No Funcionales
-1. ✅ Interfaz responsive compatible con dispositivos móviles
-2. ✅ Código documentado y organizado en módulos
-3. ✅ Compatibilidad con navegadores modernos
-4. ✅ Tiempo de carga optimizado
-5. ✅ Diseño intuitivo y fácil de usar
-
----
 
 ## 🎨 Preview
 
