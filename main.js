@@ -124,7 +124,7 @@ function mostrarError(mensaje) {
     }, 5000);
 }
 
-// Función para Success
+    // Función para Success
 function mostrarSuccess() {
     // Remover mensaje anterior si existe
     const mensajeAnterior = document.querySelector('.mensaje');
@@ -136,7 +136,7 @@ function mostrarSuccess() {
     const formBox = document.querySelector('.form-box');
     const mensajeDiv = document.createElement('div');
     mensajeDiv.className = 'mensaje success';
-    mensajeDiv.textContent = '¡Registro exitoso! Bienvenido a Fusion Market';
+    mensajeDiv.textContent = '¡Registro exitoso! Bienvenido a Bojo Chic';
     
     // Insertar antes del formulario
     formBox.insertBefore(mensajeDiv, document.querySelector('.form'));
